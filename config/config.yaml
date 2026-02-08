@@ -35,12 +35,9 @@ platforms:
   sources:
     - id: "wallstreetcn-hot"
       name: "华尔街见闻"
-    - id: "thepaper"
-      name: "澎湃新闻"
     - id: "cls-hot"
       name: "财联社热门"
     
-
 
 # ===============================================================
 # 3. 数据源 - RSS 订阅
